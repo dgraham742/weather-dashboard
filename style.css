@@ -1,0 +1,6 @@
+.hero {
+    background: aqua;
+    transition: .2s;
+    color: red;
+    text-align: center;
+}
